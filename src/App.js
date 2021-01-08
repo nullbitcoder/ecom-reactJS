@@ -30,5 +30,3 @@ class App extends React.Component {
 export default App;
 
 
-// To run the server.js: npm run server
-// To run the npm live server: npm start
